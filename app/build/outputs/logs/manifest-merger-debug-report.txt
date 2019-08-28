@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/9380218f1457e9c7a082301ae85033da/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/ca9d5ccf411b4f7e9189c2c867e80992/core-ktx-1.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/82098e2a5be425a47f566374ee120d94/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/265c830458899311816396cf9b6331bf/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/f99d62daf4b9250498bf8a35ae59509b/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/38f7236111f86e024090ee7e9f06ec4b/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/5a8098ff451a0d1d50edd01c96e11ea2/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/c1ee30133dd185e4df7e8049ae4a7ac5/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/6a01557e995f71c5518b814be2fcf545/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/6ea283dfbf146892c992c9e4d7862c2a/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/377751e2dc0446c7250497f0eb948fd0/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/ecce9904b4b73daa6f71bc128a63707c/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/d38380ba53881bf727f2de31a39da003/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/d79339dbef40aa1120e0833f5c2b64cf/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/c81f66502de5d964aaa7bd95b1cfed1e/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/58adb4f09ed42b65c72d537ec9dfd3bd/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/ea660eb770950e49e5e3947180f7038d/core-1.0.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/b0796a90164afaf3ccb9c3a9045b0e11/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/88df0cf38c974ea1078c9c68afb159e9/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/abb2ea75e468553fbb0cbb6aba587096/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/bfca4561007a3aebe55ab657055f51ee/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/a12554d2a18947dc787b06a3409e9acc/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/a2a107036490177eb88a2d9e58a54e78/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/968757c115dd11094c23cf1ba5f2e757/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/d48310cd421678962b870beb06f56c2f/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/d56b3ba78f3140a3f16d9fd4c538a799/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/eaa3de55992289b0f4373a8376f867fd/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/02db334d491ad95343c488a2ae53263a/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml
+		ADDED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml
+		ADDED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/82098e2a5be425a47f566374ee120d94/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/82098e2a5be425a47f566374ee120d94/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.2] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/ea660eb770950e49e5e3947180f7038d/core-1.0.2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/ea660eb770950e49e5e3947180f7038d/core-1.0.2/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/b0796a90164afaf3ccb9c3a9045b0e11/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/b0796a90164afaf3ccb9c3a9045b0e11/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/ea660eb770950e49e5e3947180f7038d/core-1.0.2/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.digiclock.MainActivity
+ADDED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml
+INJECTED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/9380218f1457e9c7a082301ae85033da/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/9380218f1457e9c7a082301ae85033da/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/ca9d5ccf411b4f7e9189c2c867e80992/core-ktx-1.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/ca9d5ccf411b4f7e9189c2c867e80992/core-ktx-1.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/82098e2a5be425a47f566374ee120d94/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/82098e2a5be425a47f566374ee120d94/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/265c830458899311816396cf9b6331bf/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/265c830458899311816396cf9b6331bf/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/f99d62daf4b9250498bf8a35ae59509b/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/f99d62daf4b9250498bf8a35ae59509b/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/38f7236111f86e024090ee7e9f06ec4b/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/38f7236111f86e024090ee7e9f06ec4b/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/5a8098ff451a0d1d50edd01c96e11ea2/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/5a8098ff451a0d1d50edd01c96e11ea2/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/c1ee30133dd185e4df7e8049ae4a7ac5/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/c1ee30133dd185e4df7e8049ae4a7ac5/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/6a01557e995f71c5518b814be2fcf545/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/6a01557e995f71c5518b814be2fcf545/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/6ea283dfbf146892c992c9e4d7862c2a/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/6ea283dfbf146892c992c9e4d7862c2a/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/377751e2dc0446c7250497f0eb948fd0/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/377751e2dc0446c7250497f0eb948fd0/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/ecce9904b4b73daa6f71bc128a63707c/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/ecce9904b4b73daa6f71bc128a63707c/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/d38380ba53881bf727f2de31a39da003/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/d38380ba53881bf727f2de31a39da003/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/d79339dbef40aa1120e0833f5c2b64cf/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/d79339dbef40aa1120e0833f5c2b64cf/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/c81f66502de5d964aaa7bd95b1cfed1e/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/c81f66502de5d964aaa7bd95b1cfed1e/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/58adb4f09ed42b65c72d537ec9dfd3bd/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/58adb4f09ed42b65c72d537ec9dfd3bd/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/ea660eb770950e49e5e3947180f7038d/core-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/ea660eb770950e49e5e3947180f7038d/core-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/b0796a90164afaf3ccb9c3a9045b0e11/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/b0796a90164afaf3ccb9c3a9045b0e11/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/88df0cf38c974ea1078c9c68afb159e9/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/88df0cf38c974ea1078c9c68afb159e9/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/abb2ea75e468553fbb0cbb6aba587096/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/abb2ea75e468553fbb0cbb6aba587096/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/bfca4561007a3aebe55ab657055f51ee/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/bfca4561007a3aebe55ab657055f51ee/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/a12554d2a18947dc787b06a3409e9acc/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/a12554d2a18947dc787b06a3409e9acc/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/a2a107036490177eb88a2d9e58a54e78/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/a2a107036490177eb88a2d9e58a54e78/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/968757c115dd11094c23cf1ba5f2e757/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/968757c115dd11094c23cf1ba5f2e757/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/d48310cd421678962b870beb06f56c2f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/d48310cd421678962b870beb06f56c2f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/d56b3ba78f3140a3f16d9fd4c538a799/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/d56b3ba78f3140a3f16d9fd4c538a799/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/eaa3de55992289b0f4373a8376f867fd/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/eaa3de55992289b0f4373a8376f867fd/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/02db334d491ad95343c488a2ae53263a/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/tringapps-admin/.gradle/caches/transforms-2/files-2.1/02db334d491ad95343c488a2ae53263a/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml
+INJECTED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml
+		ADDED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml
+		ADDED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tringapps-admin/tutorial_workspace1/DigiClock/app/src/main/AndroidManifest.xml

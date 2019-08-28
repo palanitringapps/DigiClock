@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DigiClock</string>
+    <string name="_24_hrs_format">24 Hrs format</string>
+    <string name="_12_hr_format">12 Hrs format</string>
+</resources>

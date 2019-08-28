@@ -1,0 +1,9 @@
+
+Xsquid:S1854)"5Remove this useless assignment to local variable "r".(°Ò¾›ùÿÿÿÿ8šë„˜Í-
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(À®Œ•øÿÿÿÿ8šë„˜Í-
+vsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(çäúåÿÿÿÿÿ8šë„˜Í-
+]squid:UnusedPrivateMethodV"2Remove this unused private "get24HourMode" method.(´Ä¯(8ÖÕŸ˜Í-
+Isquid:S1481)"&Remove this unused "r" local variable.(°Ò¾›ùÿÿÿÿ8šë„˜Í-
+‡squid:S1450"dRemove the "mFormatChangeObserver" field and declare it as a local variable in the relevant methods.(½çëÛøÿÿÿÿ8šë„˜Í-
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(À®Œ•øÿÿÿÿ8šë„˜Í-
+~squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(çäúåÿÿÿÿÿ8šë„˜Í-
